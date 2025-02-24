@@ -28,8 +28,6 @@ Hi! I'm Ashleigh Wong, a Computer Science student at Hunter College with a stron
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Langchain](https://img.shields.io/badge/🦜%20langchain-white?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Developer Tools & Databases:**
@@ -39,13 +37,6 @@ Hi! I'm Ashleigh Wong, a Computer Science student at Hunter College with a stron
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-**AI/ML Tools:**
-![Gemini](https://img.shields.io/badge/Gemini-black?style=for-the-badge)
-![ZXing](https://img.shields.io/badge/ZXing-2D6DB5?style=for-the-badge)
-![Cheerio](https://img.shields.io/badge/cheerio-white?style=for-the-badge)
 
 **Tools & Design:**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
