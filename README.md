@@ -48,4 +48,3 @@ Hi! I'm Ashleigh Wong, a Computer Science student at Hunter College with a stron
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashleighwong&theme=dark&hide_border=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleighwong&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
