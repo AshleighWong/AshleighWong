@@ -1,5 +1,5 @@
 # About Me
-Hi! I'm Ashleigh Wong, a Computer Science student at Hunter College with a strong passion for software engineering and technical leadership. I've had the opportunity to work with companies like Palantir, Cognizant, and Blackstone, where I've helped develop various solutions.
+Hi! I'm Ashleigh Wong, a Computer Science student at Hunter College with a strong passion for software engineering and technical leadership. I've had the opportunity to work with companies like Cognizant and Blackstone, where I've helped develop various solutions.
 
 # Education
 🎓 City University of New York – Hunter College (Expected May 2026)
