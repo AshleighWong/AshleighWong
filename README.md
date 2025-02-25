@@ -47,4 +47,4 @@ Hi! I'm Ashleigh Wong, a Computer Science student at Hunter College with a stron
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashleighwong&theme=dark&hide_border=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashleighwong&theme=dark&hide_border=false&count)
